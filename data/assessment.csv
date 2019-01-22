@@ -1,0 +1,87 @@
+practice,service,benefits,harms,certainty
+Add compost to the soil,Crop production,50,10,75
+Add manure to the soil,Crop production,50,0,20
+Add sewage sludge to the soil,Crop production,80,0,25
+Add slurry to the soil,Crop production,90,0,75
+Use organic fertilizer instead of inorganic,Crop production,40,20,70
+Grow cover crops in arable fields,Crop production,20,25,70
+Plant or maintain ground cover in orchards or vineyards,Crop production,20,25,70
+Use crop rotations,Crop production,60,0,60
+Use no tillage in arable fields,Crop production,30,30,75
+Use reduced tillage in arable fields,Crop production,40,20,70
+Plant flowers,Crop production,60,30,20
+Plant hedgerows,Crop production,0,0,10
+Add compost to the soil,Soil regulation,80,2,80
+Add manure to the soil,Soil regulation,53,1,60
+Add sewage sludge to the soil,Soil regulation,50,0,24
+Add slurry to the soil,Soil regulation,50,0,38
+Use organic fertilizer instead of inorganic,Soil regulation,48,6,70
+Grow cover crops in arable fields,Soil regulation,71,5,75
+Plant or maintain ground cover in orchards or vineyards,Soil regulation,66,10,75
+Use crop rotations,Soil regulation,25,28,33
+Use no tillage in arable fields,Soil regulation,60,10,73
+Use reduced tillage in arable fields,Soil regulation,63,10,75
+Plant buffer strips,Soil regulation,75,0,10
+Plant hedgerows,Soil regulation,0,0,0
+Restore habitat along watercourses,Soil regulation,0,45,10
+Exclude grazers,Soil regulation,28,60,28
+Use fewer grazers,Soil regulation,40,0,10
+Add compost to the soil,Climate regulation,50,31,73
+Add manure to the soil,Climate regulation,33,43,36
+Add sewage sludge to the soil,Climate regulation,34,58,22
+Add slurry to the soil,Climate regulation,10,43,50
+Use organic fertilizer instead of inorganic,Climate regulation,40,18,63
+Grow cover crops in arable fields,Climate regulation,55,13,43
+Plant or maintain ground cover in orchards or vineyards,Climate regulation,50,28,43
+Use crop rotations,Climate regulation,25,31,28
+Use no tillage in arable fields,Climate regulation,45,21,50
+Use reduced tillage in arable fields,Climate regulation,40,23,45
+Plant buffer strips,Climate regulation,50,0,3
+Plant hedgerows,Climate regulation,0,0,0
+Restore habitat along watercourses,Climate regulation,0,0,0
+Exclude grazers,Climate regulation,25,30,25
+Use fewer grazers,Climate regulation,0,0,5
+Add compost to the soil,Water regulation,25,50,30
+Add manure to the soil,Water regulation,20,50,25
+Add sewage sludge to the soil,Water regulation,19,35,20
+Add slurry to the soil,Water regulation,0,60,40
+Use organic fertilizer instead of inorganic,Water regulation,30,20,30
+Grow cover crops in arable fields,Water regulation,55,38,70
+Plant or maintain ground cover in orchards or vineyards,Water regulation,50,25,60
+Use crop rotations,Water regulation,20,19,20
+Use no tillage in arable fields,Water regulation,65,10,50
+Use reduced tillage in arable fields,Water regulation,50,15,50
+Plant buffer strips,Water regulation,50,0,30
+Restore habitat along watercourses,Water regulation,0,0,0
+Exclude grazers,Water regulation,0,50,20
+Use fewer grazers,Water regulation,0,0,5
+Use seasonal grazing,Water regulation,0,50,5
+Add compost to the soil,Pest regulation,30,0,23
+Use organic fertilizer instead of inorganic,Pest regulation,0,10,10
+Grow cover crops in arable fields,Pest regulation,45,10,50
+Plant or maintain ground cover in orchards or vineyards,Pest regulation,45,32,53
+Use crop rotations,Pest regulation,55,0,20
+Use no tillage in arable fields,Pest regulation,15,40,45
+Use reduced tillage in arable fields,Pest regulation,10,57,55
+Plant flowers,Pest regulation,68,25,60
+Plant hedgerows,Pest regulation,57,0,30
+Restore habitat along watercourses,Pest regulation,0,25,15
+Exclude grazers,Pest regulation,0,35,10
+Use no tillage in arable fields,Pollination,70,0,10
+Plant or maintain ground cover in orchards or vineyards,Pollination,50,0,10
+Plant flowers,Pollination,75,0,45
+Plant hedgerows,Pollination,78,5,65
+Restore habitat along watercourses,Pollination,25,0,10
+Add compost to the soil,Biodiversity conservation,65,0,45
+Add manure to the soil,Biodiversity conservation,60,0,10
+Add sewage sludge to the soil,Biodiversity conservation,60,0,20
+Plant or maintain ground cover in orchards or vineyards,Biodiversity conservation,80,0,20
+Plant flowers,Biodiversity conservation,40,20,20
+Plant hedgerows,Biodiversity conservation,20,0,10
+Restore habitat along watercourses,Biodiversity conservation,60,15,50
+Exclude grazers,Biodiversity conservation,55,21,68
+Use fewer grazers,Biodiversity conservation,30,20,35
+Use grazers to manage vegetation,Biodiversity conservation,53,25,55
+Use organic fertilizer instead of inorganic,Biodiversity conservation,50,0,10
+Use rotational grazing,Biodiversity conservation,38,0,10
+Use seasonal grazing,Biodiversity conservation,20,20,20
